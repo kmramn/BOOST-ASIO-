@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<XrML xmlns="" version="1.2">
+    <BODY type="Microsoft Official Rights Template">
+        <ISSUEDTIME>2013-07-31T11:11</ISSUEDTIME>
+        <DESCRIPTOR>
+            <OBJECT>
+                <ID type="MS-GUID">{7efe22f9-9424-4b4f-845d-a2ced0d0c203}</ID>
+                <NAME>LCID 1033:NAME SECUDE Controlled:DESCRIPTION Information that is important to SECUDE and shouldn’t be accessible for external parties. Information secured to this template may however be appropriate for non-employee eyes.;</NAME>
+            </OBJECT>
+        </DESCRIPTOR>
+        <ISSUER>
+            <OBJECT type="MS-DRM-Server">
+                <ID type="MS-GUID">{0956aa2e-6842-445c-8301-49d2bbb3cca3}</ID>
+                <NAME>SVLU0015</NAME>
+                <ADDRESS type="URL">HTTPS://adrms.secude.local:443/_wmcs</ADDRESS>
+            </OBJECT>
+            <PUBLICKEY>
+                <ALGORITHM>RSA</ALGORITHM>
+                <PARAMETER name="public-exponent">
+                    <VALUE encoding="integer32">65537</VALUE>
+                </PARAMETER>
+                <PARAMETER name="modulus">
+                    <VALUE encoding="base64" size="1024">4X7M50fCFOGkZBXqnBBuZBMpgPPNeAcRX5G1RrqL81EAVw4L5ITFKlbvQfxm+HzqKZVd65FKEmWbduhIMQYyIGxmMBopMHyqxd40N38RGfT1XerxLovTbkFi67oEptk/hBfmvsO5tNqa0rYeLm4puPMVvVsAOaOMv5ytvk/t+sg=</VALUE>
+                </PARAMETER>
+            </PUBLICKEY>
+        </ISSUER>
+        <DISTRIBUTIONPOINT>
+            <OBJECT type="Publishing-URL">
+                <ID type="MS-GUID">{9A23D98E-4449-4ba5-812A-F30808F3CB16}</ID>
+                <NAME>Publishing Point</NAME>
+                <ADDRESS type="URL">https://adrms.secude.local:443/_wmcs/licensing</ADDRESS>
+            </OBJECT>
+        </DISTRIBUTIONPOINT>
+        <WORK>
+            <OBJECT>
+                <ID type="" />
+            </OBJECT>
+            <RIGHTSGROUP name="Main-Rights">
+                <RIGHTSLIST>
+                    <RIGHT name="OWNER">
+                        <CONDITIONLIST>
+                            <ACCESS>
+                                <PRINCIPAL>
+                                    <OBJECT>
+                                        <ID type="Internal">Owner</ID>
+                                    </OBJECT>
+                                </PRINCIPAL>
+                                <PRINCIPAL>
+                                    <OBJECT>
+                                        <ID type="Unspecified" />
+                                        <NAME>StaffSECUDEAGAll@SECUDE.local</NAME>
+                                    </OBJECT>
+                                </PRINCIPAL>
+                            </ACCESS>
+                        </CONDITIONLIST>
+                    </RIGHT>
+                    <VIEW>
+                        <CONDITIONLIST>
+                            <ACCESS>
+                                <PRINCIPAL>
+                                    <OBJECT>
+                                        <ID type="Unspecified" />
+                                        <NAME>StaffSECUDEAGAll@SECUDE.local</NAME>
+                                    </OBJECT>
+                                </PRINCIPAL>
+                            </ACCESS>
+                        </CONDITIONLIST>
+                    </VIEW>
+                    <EXTRACT>
+                        <CONDITIONLIST>
+                            <ACCESS>
+                                <PRINCIPAL>
+                                    <OBJECT>
+                                        <ID type="Unspecified" />
+                                        <NAME>StaffSECUDEAGAll@SECUDE.local</NAME>
+                                    </OBJECT>
+                                </PRINCIPAL>
+                            </ACCESS>
+                        </CONDITIONLIST>
+                    </EXTRACT>
+                    <RIGHT name="OBJMODEL">
+                        <CONDITIONLIST>
+                            <ACCESS>
+                                <PRINCIPAL>
+                                    <OBJECT>
+                                        <ID type="Unspecified" />
+                                        <NAME>StaffSECUDEAGAll@SECUDE.local</NAME>
+                                    </OBJECT>
+                                </PRINCIPAL>
+                            </ACCESS>
+                        </CONDITIONLIST>
+                    </RIGHT>
+                    <RIGHT name="VIEWRIGHTSDATA">
+                        <CONDITIONLIST>
+                            <ACCESS>
+                                <PRINCIPAL>
+                                    <OBJECT>
+                                        <ID type="Unspecified" />
+                                        <NAME>StaffSECUDEAGAll@SECUDE.local</NAME>
+                                    </OBJECT>
+                                </PRINCIPAL>
+                            </ACCESS>
+                        </CONDITIONLIST>
+                    </RIGHT>
+                    <PRINT>
+                        <CONDITIONLIST>
+                            <ACCESS>
+                                <PRINCIPAL>
+                                    <OBJECT>
+                                        <ID type="Unspecified" />
+                                        <NAME>StaffSECUDEAGAll@SECUDE.local</NAME>
+                                    </OBJECT>
+                                </PRINCIPAL>
+                            </ACCESS>
+                        </CONDITIONLIST>
+                    </PRINT>
+                    <RIGHT name="FORWARD">
+                        <CONDITIONLIST>
+                            <ACCESS>
+                                <PRINCIPAL>
+                                    <OBJECT>
+                                        <ID type="Unspecified" />
+                                        <NAME>StaffSECUDEAGAll@SECUDE.local</NAME>
+                                    </OBJECT>
+                                </PRINCIPAL>
+                            </ACCESS>
+                        </CONDITIONLIST>
+                    </RIGHT>
+                    <RIGHT name="REPLY">
+                        <CONDITIONLIST>
+                            <ACCESS>
+                                <PRINCIPAL>
+                                    <OBJECT>
+                                        <ID type="Unspecified" />
+                                        <NAME>StaffSECUDEAGAll@SECUDE.local</NAME>
+                                    </OBJECT>
+                                </PRINCIPAL>
+                            </ACCESS>
+                        </CONDITIONLIST>
+                    </RIGHT>
+                    <RIGHT name="REPLYALL">
+                        <CONDITIONLIST>
+                            <ACCESS>
+                                <PRINCIPAL>
+                                    <OBJECT>
+                                        <ID type="Unspecified" />
+                                        <NAME>StaffSECUDEAGAll@SECUDE.local</NAME>
+                                    </OBJECT>
+                                </PRINCIPAL>
+                            </ACCESS>
+                        </CONDITIONLIST>
+                    </RIGHT>
+                    <EXPORT>
+                        <CONDITIONLIST>
+                            <ACCESS>
+                                <PRINCIPAL>
+                                    <OBJECT>
+                                        <ID type="Unspecified" />
+                                        <NAME>StaffSECUDEAGAll@SECUDE.local</NAME>
+                                    </OBJECT>
+                                </PRINCIPAL>
+                            </ACCESS>
+                        </CONDITIONLIST>
+                    </EXPORT>
+                    <EDIT>
+                        <CONDITIONLIST>
+                            <ACCESS>
+                                <PRINCIPAL>
+                                    <OBJECT>
+                                        <ID type="Unspecified" />
+                                        <NAME>StaffSECUDEAGAll@SECUDE.local</NAME>
+                                    </OBJECT>
+                                </PRINCIPAL>
+                            </ACCESS>
+                        </CONDITIONLIST>
+                    </EDIT>
+                    <RIGHT name="DOCEDIT">
+                        <CONDITIONLIST>
+                            <ACCESS>
+                                <PRINCIPAL>
+                                    <OBJECT>
+                                        <ID type="Unspecified" />
+                                        <NAME>StaffSECUDEAGAll@SECUDE.local</NAME>
+                                    </OBJECT>
+                                </PRINCIPAL>
+                            </ACCESS>
+                        </CONDITIONLIST>
+                    </RIGHT>
+                    <RIGHT name="EDITRIGHTSDATA">
+                        <CONDITIONLIST>
+                            <ACCESS>
+                                <PRINCIPAL>
+                                    <OBJECT>
+                                        <ID type="Unspecified" />
+                                        <NAME>StaffSECUDEAGAll@SECUDE.local</NAME>
+                                    </OBJECT>
+                                </PRINCIPAL>
+                            </ACCESS>
+                        </CONDITIONLIST>
+                    </RIGHT>
+                </RIGHTSLIST>
+            </RIGHTSGROUP>
+        </WORK>
+    </BODY>
+    <SIGNATURE>
+        <DIGEST>
+            <ALGORITHM>SHA1</ALGORITHM>
+            <PARAMETER name="codingtype">
+                <VALUE encoding="string">surface-coding</VALUE>
+            </PARAMETER>
+            <VALUE encoding="base64" size="160">aQdO1jOIJXYKdwW6GkfhB7YSzmA=</VALUE>
+        </DIGEST>
+        <ALGORITHM>RSA PKCS#1-V1.5</ALGORITHM>
+        <VALUE encoding="base64" size="1024">cKMb1E5Mr8EXvyaF+JK62KNDCy8okJImbSn1Yq5LZE3kz49Ahn0PAEMRa7HMpc+jfjnelYKzwgx13EPlna+Wy96qFGyPyxnMTd4bNSmUMzZ1IIVISLPlo/eYpmQUnT8lQifgGtC1S3Ov6Edp7Sf8KQEg+HK6X0a+/7CU/df7lQs=</VALUE>
+    </SIGNATURE>
+</XrML> 
